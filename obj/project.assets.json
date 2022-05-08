@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/CSharp/main.csproj",
+      "projectUniqueName": "/home/runner/ICS2O-Unit5-05-EXTRA/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/CSharp/main.csproj",
+      "projectPath": "/home/runner/ICS2O-Unit5-05-EXTRA/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/CSharp/obj/",
+      "outputPath": "/home/runner/ICS2O-Unit5-05-EXTRA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/knphr82kmbrymkmwv8dl86i37xbvg67z-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/1yr9ih9yy8j5prxdx725ma3w3grg8p2f-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
