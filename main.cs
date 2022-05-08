@@ -26,9 +26,9 @@ class Program
 
         if ((angle1 == angle2 && angle2 == angle3))
             Console.WriteLine("The triangle is an equilateral triangle.");
-        else if(angle1 == angle2 || angle2 == angle3 || angle1 == angle3)
+        else if (angle1 == angle2 || angle2 == angle3 || angle1 == angle3)
             Console.WriteLine("The triangle is an isosceles triangle.");
-        else if(angle1 == 0 || angle2 == 0 || angle1 == 0)
+        else if (angle1 == 0 || angle2 == 0 || angle1 == 0)
             Console.WriteLine("This is not a triangle.");
         else
             Console.WriteLine("The triangle is a scalene triangle.");
