@@ -14,13 +14,13 @@ class Program
         int angle3;
 
         Console.Write("Enter the angle of the triangle.");
-        Console.WriteLine("3");
+        Console.WriteLine("");
         Console.WriteLine("Angle 1: ");
         angle1 = int.Parse(Console.ReadLine());
-      
+
         Console.WriteLine("Angle 2: ");
         angle2 = int.Parse(Console.ReadLine());
-      
+
         Console.WriteLine("Angle 3: ");
         angle3 = int.Parse(Console.ReadLine());
 
